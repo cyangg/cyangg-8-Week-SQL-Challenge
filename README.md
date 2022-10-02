@@ -1,8 +1,8 @@
-# 🍔 8 Week SQL Challenge
+# 💪 8 Week SQL Challenge
 
-This repository contains the solutions for the case studies in [8WeekSQLChallenge](https://8weeksqlchallenge.com/).
+This repository contains the solutions for the case studies in [8WeekSQLChallenge](https://8weeksqlchallenge.com/). Solutions are coded in MySQL.
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
 - [Case Study #3: Foodie-Fi](#case-study-3-foodie-fi)
