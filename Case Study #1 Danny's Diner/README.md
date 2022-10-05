@@ -1,51 +1,9 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "f3dadb14",
-   "metadata": {},
-   "source": [
-    "# Henry\n",
-    "\n",
-    "\n",
-    ":man_student: **About me**\n",
-    "- MBA: Concentration in Business Analytics\n",
-    "- I'm continouesly learning Data Analytics/Data Sciences skills\n",
-    "- I’m curently working as a data analyst\n",
-    "\n",
-    ":bar_chart: **Data Projects**\n",
-    "- **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)\n",
-    "- **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "8f630c81",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.9.7"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# 🍜 Case Study #1: Danny's Diner
+
+<p align="center">
+<img width="400px"  src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" />
+</p>
+
+<p align="center">
+View the case study <a href="https://8weeksqlchallenge.com/case-study-1/">here</a> and my <b>solution</b> <a href="https://github.com/nguyennhatquan/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Answers.md">here</a>
+</p>
