@@ -1,51 +1,14 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "f3dadb14",
-   "metadata": {},
-   "source": [
-    "# Henry\n",
-    "\n",
-    "\n",
-    ":man_student: **About me**\n",
-    "- MBA: Concentration in Business Analytics\n",
-    "- I'm continouesly learning Data Analytics/Data Sciences skills\n",
-    "- I’m curently working as a data analyst\n",
-    "\n",
-    ":bar_chart: **Data Projects**\n",
-    "- **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)\n",
-    "- **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "8f630c81",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.9.7"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+## Case Study #4: Data Bank
+
+<img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
+
+## 📚 Table of Contents
+- [Business Task](#business-task)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Case Study Questions](#case-study-questions)
+- Solution
+  - [A. Customer Nodes Exploration](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
+  - [B. Customer Transactions](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md)
+  - [Complete SQL Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/SQL%20Syntax/Complete%20SQL%20solution.sql)
+
+***
