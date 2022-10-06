@@ -4,6 +4,9 @@
 <img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
 </p>
 
+<p align="center">
+View the case study <a href="https://8weeksqlchallenge.com/case-study-4/">here</a>
+
 ## Case Study Questions
 ### A. Customer Nodes Exploration
 
