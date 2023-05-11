@@ -110,6 +110,7 @@ order by 1,2;
 # 8. Which age_band and demographic values contribute the most to Retail sales?
 select age_band, demographic, sum(sales) sum, (sum(sales)/sum(sum(sales)) over())*100 as p
 from weekly_sales
+where platform='Retail'
 group by 1,2
 order by 3 desc;
 
