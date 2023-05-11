@@ -1,11 +1,6 @@
 # 🏦 Case Study #5: Data Mart
+![Screenshot of the Table](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/4e2ff376-7136-4ff8-abc3-d08530cd535b)
 
-<p align="center">
-(https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/86b3045d-c231-4960-a2d3-30e0249a0ee3)
-</p>
-
-<p align="center">
-View the case study <a href="https://8weeksqlchallenge.com/case-study-4/">here</a>
 
 ## Case Study Questions
 ### A. Data Exploration
