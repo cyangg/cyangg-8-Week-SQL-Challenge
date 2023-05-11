@@ -1,7 +1,7 @@
 # 🏦 Case Study #5: Data Mart
 
 <p align="center">
-![Untitled picture](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/86b3045d-c231-4960-a2d3-30e0249a0ee3)
+(https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/86b3045d-c231-4960-a2d3-30e0249a0ee3)
 </p>
 
 <p align="center">
