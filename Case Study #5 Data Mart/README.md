@@ -31,6 +31,6 @@ growth or reduction rate in actual values and percentage of sales?
 3. How do the sale metrics for these 2 periods before and after compare with the
 previous years in 2018 and 2019?
   
-View my solution [here]().
+View my solution [here](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20Data%20Mart/Solution.sql).
   
 ***
