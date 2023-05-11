@@ -8,29 +8,34 @@
 View the case study <a href="https://8weeksqlchallenge.com/case-study-4/">here</a>
 
 ## Case Study Questions
-### A. Customer Nodes Exploration
+### A. Data Exploration
 
-View my solution [here]().
+1. What day of the week is used for each week_date value?
+2. What range of week numbers are missing from the dataset?
+3. How many total transactions were there for each year in the dataset?
+4. What is the total sales for each region for each month?
+5. What is the total count of transactions for each platform
+6. What is the percentage of sales for Retail vs Shopify for each month?
+7. What is the percentage of sales by demographic for each year in the dataset?
+8. Which age_band and demographic values contribute the most to Retail sales?
+9. Can we use the avg_transaction column to find the average transaction size for each
+year for Retail vs Shopify? If not - how would you calculate it instead?
 
-1. How many unique nodes are there on the Data Bank system?
-2. What is the number of nodes per region?
-3. How many customers are allocated to each region?
-4. How many days on average are customers reallocated to a different node?
-5. What is the median, 80th and 95th percentile for this same reallocation days metric for each region?
-
-### B. Customer Transactions
-
-View my solution [here]().
+### B. efore & After Analysis
   
-1. What is the unique count and total amount for each transaction type?
-2. What is the average total historical deposit counts and amounts for all customers?
-3. For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
-4. What is the closing balance for each customer at the end of the month?
-5. Comparing the closing balance of a customer’s first month and the closing balance from their second nth, what percentage of customers:
-  - Have a negative first month balance?
-  - Have a positive first month balance?
-  - Increase their opening month’s positive closing balance by more than 5% in the following month?
-  - Reduce their opening month’s positive closing balance by more than 5% in the following month?
-  - Move from a positive balance in the first month to a negative balance in the second month?
+This technique is usually used when we inspect an important event and want to inspect the
+impact before and after a certain point in time.
+Taking the week_date value of 2020-06-15 as the baseline week where the Data Mart
+sustainable packaging changes came into effect.
+We would include all week_date values for 2020-06-15 as the start of the period after the
+change and the previous week_date values would be before
+Using this analysis approach - answer the following questions:
+1. What is the total sales for the 4 weeks before and after 2020-06-15? What is the
+growth or reduction rate in actual values and percentage of sales?
+2. What about the entire 12 weeks before and after?
+3. How do the sale metrics for these 2 periods before and after compare with the
+previous years in 2018 and 2019?
+  
+View my solution [here]().
   
 ***
