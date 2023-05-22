@@ -9,29 +9,37 @@
 
 
 ## Case Study Questions
-### A. Customer Nodes Exploration
+### 2. Digital Analysis
+Using the available datasets - answer the following questions using a single query for each one:
+How many users are there?
+How many cookies does each user have on average?
+What is the unique number of visits by all users per month?
+What is the number of events for each event type?
+What is the percentage of visits which have a purchase event?
+What is the percentage of visits which view the checkout page but do not have a purchase event?
+What are the top 3 pages by number of views?
+What is the number of views and cart adds for each product category?
+What are the top 3 products by purchases?
 
-View my solution [here]().
+### 3. Product Funnel Analysis
+Using a single SQL query - create a new output table which has the following details:
 
-1. How many unique nodes are there on the Data Bank system?
-2. What is the number of nodes per region?
-3. How many customers are allocated to each region?
-4. How many days on average are customers reallocated to a different node?
-5. What is the median, 80th and 95th percentile for this same reallocation days metric for each region?
+How many times was each product viewed?
+How many times was each product added to cart?
+How many times was each product added to a cart but not purchased (abandoned)?
+How many times was each product purchased?
+Additionally, create another table which further aggregates the data for the above points but this time for each product category instead of individual products.
+
+Use your 2 new output tables - answer the following questions:
+
+Which product had the most views, cart adds and purchases?
+Which product was most likely to be abandoned?
+Which product had the highest view to purchase percentage?
+What is the average conversion rate from view to cart add?
+What is the average conversion rate from cart add to purchase?
 
 ### B. Customer Transactions
 
 View my solution [here]().
   
-1. What is the unique count and total amount for each transaction type?
-2. What is the average total historical deposit counts and amounts for all customers?
-3. For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
-4. What is the closing balance for each customer at the end of the month?
-5. Comparing the closing balance of a customer’s first month and the closing balance from their second nth, what percentage of customers:
-  - Have a negative first month balance?
-  - Have a positive first month balance?
-  - Increase their opening month’s positive closing balance by more than 5% in the following month?
-  - Reduce their opening month’s positive closing balance by more than 5% in the following month?
-  - Move from a positive balance in the first month to a negative balance in the second month?
-  
-***
+
