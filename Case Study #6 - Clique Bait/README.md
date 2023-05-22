@@ -1,11 +1,12 @@
-# 🏦 Case Study #4: Data Bank
+# 🐟 Case Study #6: Clique Bait
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
-</p>
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/05ff8ea6-5934-4d5d-8122-21cd64d82db9)
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/bc8b63a3-0bda-466b-9b89-7d9c945c6dc9)
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/7dabc032-5931-4cb9-9c09-73f59f782622)
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/1efee31b-81e5-4d7d-b8b5-6a92e1ff49a8)
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/b613f1d4-e5af-467c-a0fe-da26cbf11803)
+![image](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/assets/93499674/ede34f8e-5341-40f7-9ee1-4f6a35847b06)
 
-<p align="center">
-View the case study <a href="https://8weeksqlchallenge.com/case-study-4/">here</a>
 
 ## Case Study Questions
 ### A. Customer Nodes Exploration
