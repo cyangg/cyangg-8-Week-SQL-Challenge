@@ -11,16 +11,15 @@
 ## Case Study Questions
 ### 2. Digital Analysis
 Using the available datasets - answer the following questions using a single query for each one:
-1.How many users are there?
-2.How many cookies does each user have on average?
-3.What is the unique number of visits by all users per month?
-4.What is the number of events for each event type?
-5.What is the percentage of visits which have a purchase event?
-6.What is the percentage of visits which view the checkout page but do not have a
-purchase event?
-7.What are the top 3 pages by number of views?
-8.What is the number of views and cart adds for each product category?
-9.What are the top 3 products by purchases?
+1. How many users are there?
+2. How many cookies does each user have on average?
+3. What is the unique number of visits by all users per month?
+4. What is the number of events for each event type?
+5. What is the percentage of visits which have a purchase event?
+6. What is the percentage of visits which view the checkout page but do not have a purchase event?
+7. What are the top 3 pages by number of views?
+8. What is the number of views and cart adds for each product category?
+9. What are the top 3 products by purchases?
 
 ### 3. Product Funnel Analysis
 Using a single SQL query - create a new output table which has the following details:
@@ -34,11 +33,11 @@ Additionally,create another table which further aggregates the data for the abov
 but this time for each product category instead of individual products.
 
 Use your 2 new output tables -answer the following questions:
-1.Which product had the most views,cart adds and purchases?
-2.Which product was most likely to be abandoned?
-3.Which product had the highest view to purchase percentage?
-4.What is the average conversion rate from view to cart add?
-5.What is the average conversion rate from cart add to purchase?
+1. Which product had the most views,cart adds and purchases?
+2. Which product was most likely to be abandoned?
+3. Which product had the highest view to purchase percentage?
+4. What is the average conversion rate from view to cart add?
+5. What is the average conversion rate from cart add to purchase?
 
 ### B. Customer Transactions
 
