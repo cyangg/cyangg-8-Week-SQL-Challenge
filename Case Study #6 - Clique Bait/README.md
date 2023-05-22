@@ -34,6 +34,7 @@ Additionally,create another table which further aggregates the data for the abov
 but this time for each product category instead of individual products.
 
 Use your 2 new output tables -answer the following questions:
+
 1.Which product had the most views,cart adds and purchases?
 2.Which product was most likely to be abandoned?
 3.Which product had the highest view to purchase percentage?
