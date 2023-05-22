@@ -39,8 +39,6 @@ Use your 2 new output tables -answer the following questions:
 4. What is the average conversion rate from view to cart add?
 5. What is the average conversion rate from cart add to purchase?
 
-### B. Customer Transactions
-
-View my solution [here]().
+View my solution [here](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution.sql).
   
 
